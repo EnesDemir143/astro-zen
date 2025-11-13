@@ -2,7 +2,7 @@ import type { SiteConfig, SiteContent } from "../types";
 
 export const SITE_CONFIG: SiteConfig = {
   title: "Enes Demir — Machine Learning Engineer",
-  author: "Enes Demir Cuntez",
+  author: "Enes Demir",
   description:
     "Software Engineer based in San Francisco, USA. I specialize in UI design, web and mobile application development and maintenance.",
   lang: "en",
@@ -23,7 +23,7 @@ export const SITE_CONFIG: SiteConfig = {
 export const SITE_CONTENT: SiteContent = {
   hero: {
     name: "Enes Demir",
-    specialty: "Mobile & Web Developer",
+    specialty: "Machine Learning Engineer",
     summary:
       "Developer based in Turkey I specialize in machine learning, data science and deep learning.",
     email: "enesdemirdev@gmail.com",
